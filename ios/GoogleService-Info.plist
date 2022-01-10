@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>404009733852-btkc4ml8hnujjt22i3lti08n8jd0veim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.404009733852-btkc4ml8hnujjt22i3lti08n8jd0veim</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>404009733852-du3f2duua63attdseqgqkf1u1kl6tpiq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5Ba2GhhP77t2pJI8hZXQCUZFmjZntZtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>404009733852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.systech.wostore</string>
+	<key>PROJECT_ID</key>
+	<string>wostore-de089</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wostore-de089.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:404009733852:ios:e4cba4fd90371ad7c62e19</string>
+	<key>DATABASE_URL</key>
+	<string>https://wostore-de089.firebaseio.com</string>
+</dict>
+</plist>

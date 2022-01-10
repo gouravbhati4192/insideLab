@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941089897088",
+    "project_id": "insiderlab-app",
+    "storage_bucket": "insiderlab-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941089897088:android:85a39e8845c4e5f4af0465",
+        "android_client_info": {
+          "package_name": "com.kriyawantika.financialfreedom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941089897088-be73b7j77ec8lmim0vibbema1b4dma8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kriyawantika.financialfreedom",
+            "certificate_hash": "e1bf4e0ad8ab845c8d7467d10e68df8a1da1f341"
+          }
+        },
+        {
+          "client_id": "941089897088-cgagd9otj4rvq0hhjiitof2up8bqidlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEdeoz3eJFarHAZNhfj5AYtPUjeirv9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941089897088-cgagd9otj4rvq0hhjiitof2up8bqidlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
